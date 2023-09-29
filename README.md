@@ -6,7 +6,7 @@ Kelas : TI 22.A3
 
 ---
 
-# Latihan Pemrograman Menggunakan Bahasa Python
+<p align="center> Latihan Pemrograman Menggunakan Bahasa Python </p>
 
 ## Latihan 1
 
